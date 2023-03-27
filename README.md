@@ -51,3 +51,4 @@ def entities(self) -> str:
 I open a pull req to instaloader lib with that modification: [My Pull Req](https://github.com/instaloader/instaloader/pull/1899)
 
 ## Any advice for better coding, comment, docummentation or related it's apreciate, i'm starting in coding and sharing that code thank u <3.
+## Thanks to this project build by me for being an inspiration for a bigger idea [PyPanelX](https://github.com/jamesphoenixcode/pypanelx)
